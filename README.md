@@ -19,4 +19,4 @@ Requirements:
   ApiKey for newsapi.org
     
   ##### Usage:
-  `pipenv run current_news.py`
+  `pipenv run current_news.py <apiKey>`
